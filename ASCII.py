@@ -7,6 +7,8 @@ import win32gui, win32con
 import sys
 import tkinter as tk
 
+ # by 开朗的火山河123
+
 ASCII_CHARS = "@%#*+=-:. "
 
 def resize_image(image, new_width=240):  
