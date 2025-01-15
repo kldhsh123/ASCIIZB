@@ -8,6 +8,7 @@ import sys
 import tkinter as tk
 
  # by 开朗的火山河123
+ #github:https://github.com/kldhsh123/ASCIIZB
 
 ASCII_CHARS = "@%#*+=-:. "
 
